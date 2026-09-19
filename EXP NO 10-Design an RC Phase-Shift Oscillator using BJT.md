@@ -9,9 +9,13 @@
 
 
 ## tabulation
+<img width="690" height="800" alt="image" src="https://github.com/user-attachments/assets/b07a7080-4fb0-4545-94c4-e93ea1b89e72" />
 
 ## output graph sheet
+<img width="800" height="667" alt="image" src="https://github.com/user-attachments/assets/837a6178-adc8-4e25-822a-e889b138c634" />
 
 ## calculation
+<img width="800" height="675" alt="image" src="https://github.com/user-attachments/assets/b984f535-9e62-40cd-8154-9a4d1714ace1" />
 
 ## result
+<img width="800" height="496" alt="image" src="https://github.com/user-attachments/assets/a36f5384-99d8-486f-8159-14bbf6537eaf" />
