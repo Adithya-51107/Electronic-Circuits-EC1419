@@ -1,4 +1,4 @@
-# Electronic-Circuits-EC1419
+ # Electronic-Circuits-EC1419
 
 <img width="686" height="718" alt="image" src="https://github.com/user-attachments/assets/17c40c51-e446-40dc-ae5e-529c6488707e" />
 <img width="652" height="132" alt="image" src="https://github.com/user-attachments/assets/1bae20ca-6142-485d-a594-d015bb0c075f" />
@@ -12,9 +12,15 @@
 
 
 ## circuit diagram
+<img width="500" height="434" alt="image" src="https://github.com/user-attachments/assets/624fb838-5179-41f2-a397-e523ce3a7cb2" />
 
 ## graph
+<img width="464" height="474" alt="image" src="https://github.com/user-attachments/assets/fdc868b9-8544-4b52-af4f-5f0f2b524ad7" />
 
 ## calculation
+<img width="464" height="777" alt="image" src="https://github.com/user-attachments/assets/ec278e34-bf37-4235-8bb9-c473ca35092e" />
+<img width="464" height="738" alt="image" src="https://github.com/user-attachments/assets/c0c270a7-c701-46ca-aa27-1dcbb4443759" />
+<img width="371" height="646" alt="image" src="https://github.com/user-attachments/assets/0812f92e-d0d9-4ba2-99c5-b8aac496a7e0" />
 
 ## result
+<img width="402" height="486" alt="image" src="https://github.com/user-attachments/assets/2b5bacea-747b-4625-be16-a1a0d94ef4f6" />
