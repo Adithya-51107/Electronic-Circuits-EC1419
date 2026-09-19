@@ -6,7 +6,13 @@
 
 
 ## Kicad circuit diagram
+<img width="584" height="800" alt="image" src="https://github.com/user-attachments/assets/595618bd-20c7-4cba-80f7-baf7193f98e5" />
+<img width="800" height="452" alt="image" src="https://github.com/user-attachments/assets/817c6d54-b905-41ea-82a1-f89312599c51" />
 
 ## output waveform
+<img width="800" height="417" alt="image" src="https://github.com/user-attachments/assets/1cb2bf78-22c7-4c75-8237-03a0c8514754" />
+<img width="783" height="762" alt="image" src="https://github.com/user-attachments/assets/d4ebcd0b-2f40-4da4-b3ef-7ca573a68ede" />
+<img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/de7256dc-d88b-40de-943b-02fbeba7a551" />
 
 ## result
+<img width="711" height="740" alt="image" src="https://github.com/user-attachments/assets/8d4177e4-2caa-426e-8492-902bbcab0740" />
